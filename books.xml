@@ -1,0 +1,11 @@
+<books>
+  <book>
+      <author>Carson</author>
+      <price format="dollar">31.95</price>
+      <pubdate>05/07/2011</pubdate>
+  </book>
+  <publinfo>
+    <publisher>Korea Press</publisher>
+    <state>seoul</state>
+  </publinfo>
+</books>
